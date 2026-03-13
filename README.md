@@ -9,7 +9,7 @@ Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e evo
 
 Você pode visualizar o portfólio online:
 
-👉 https://portifpolio-web.vercel.app
+👉 https://lucas-lourenco-dev.vercel.app
 
 ---
 
